@@ -36,5 +36,5 @@ Follow these steps to set up the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/offcut-vegetable-inventory.git
-cd offcut-vegetable-inventory
+git clone https://github.com/Prathikesh/Offcut_InventoryC_MERN.git
+cd Offcut_InventoryC_MERN
