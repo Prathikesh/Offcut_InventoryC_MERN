@@ -1,6 +1,5 @@
 # 🥦 Offcut Vegetable Inventory and Pricing System
 
-![Project Image](image_placeholder.png) <!-- Replace with actual image path -->
 
 ## 📋 Overview
 
